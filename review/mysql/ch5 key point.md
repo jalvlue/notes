@@ -1,0 +1,15 @@
+- 加锁范围
+	- 全局锁(只读): `flush tables with read lock`, 全库逻辑备份(mysql 的备份工具是 mysqldump ), 可能造成业务阻塞, 由于 mysql 支持可重复读隔离级别, 同时在 MVCC 的支持下, 如果开启了事务再进行备份, 可以避免备份过程中数据被修改
+	- 表级锁
+		- 表锁
+		- 元数据锁(MDL): 无需显式使用
+			- 对表进行 CRUD 操作加 MDL 读锁
+			- 对表进行结构变更操作加 MDL 写锁
+		- 意向锁
+		- AUTO-INC 锁
+	- 行锁
+		- `record lock`
+		- `gap lock`
+		- `next-key lock`: 记录锁+间隙锁, 锁定一个范围+记录
+	- 
+	

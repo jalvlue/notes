@@ -1,0 +1,5 @@
+- `maddening`
+	- `adj` - 令人发狂的 - `When I first started trying to understand the memory allocator of Go, it was maddening`
+- `peef off`
+	- `phrase` - 抽离, 剥离 - `you need to peel off those layers one by one to understand it`
+- 

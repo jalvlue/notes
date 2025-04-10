@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "1cc47d6feb384ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "c264d6fb8511ae60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4c12433ea33b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/stanford-cs144-wt25/lecture/week2 Reliability from Unreliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week2 Reliability from Unreliability"
+            }
+          },
+          {
+            "id": "e4070cc37f6b8763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "review/算法通关/047 一维差分与等差数列差分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "047 一维差分与等差数列差分"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "949c86c5376db1f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b670edc51231f2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e5f0969eb2be61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc3b20fbe5940b94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59254478e9627997",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "right": {
+    "id": "c5003e2467746909",
+    "type": "split",
+    "children": [
+      {
+        "id": "39dc1d2e716c4a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7cc8c524f1597b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "review/算法通关/047 一维差分与等差数列差分.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 047 一维差分与等差数列差分"
+            }
+          },
+          {
+            "id": "d033f4d37628fde9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4adaca3f06e3a27e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55f0ab48b0b5b6ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e4070cc37f6b8763",
+  "lastOpenFiles": [
+    "review/算法通关/045 前缀树相关题目.md",
+    "review/算法通关/044 前缀树.md",
+    "review/算法通关/040 N皇后👸.md",
+    "review/算法通关/039 经典嵌套类问题.md",
+    "review/算法通关/038 经典递归过程.md",
+    "review/算法通关/036 二叉树高频题目.md",
+    "attachment/Pasted image 20250410212140.png",
+    "attachment/Pasted image 20250410210908.png",
+    "attachment/Pasted image 20250410180955.png",
+    "attachment/Pasted image 20250410171656.png",
+    "attachment/Pasted image 20250410154335.png",
+    "attachment/Pasted image 20250410123150.png",
+    "attachment/Pasted image 20250410113511.png",
+    "attachment/Pasted image 20250410103956.png",
+    "review/算法通关/048 二维前缀和, 二维差分.md",
+    "attachment/Pasted image 20250409183505.png",
+    "review/算法通关/047 一维差分与等差数列差分.md",
+    "attachment/Pasted image 20250409181244.png",
+    "review/算法通关/046 构建前缀信息解决子数组问题.md",
+    "courses/stanford-cs144-wt25/lecture/week2 Reliability from Unreliability.md",
+    "courses/stanford-cs144-wt25/lecture/week1 Logistics and Basic Principals.md",
+    "2025/main.md",
+    "2025/看书/Go语言高级编程.md",
+    "courses/15-213/main.md",
+    "courses/15-213/lectures/lec12 Cache Memories.md",
+    "散记/Untitled.md",
+    "courses/stanford-cs144-wt25/labs/check0.md",
+    "courses/stanford-cs106l/lectures/15. RAII and Smart Pointers.md",
+    "courses/stanford-cs144-wt25/labs",
+    "courses/stanford-cs144-wt25/lecture",
+    "courses/stanford-cs144-wt25",
+    "courses/stanford-cs106l/lectures/14. Optional and Type Safety.md",
+    "courses/stanford-cs106l/lectures/13. Move Semantics.md",
+    "courses/stanford-cs106l/lectures/12. Special Member Functions.md",
+    "courses/stanford-cs106l/lectures/11. Operator Overloading.md",
+    "courses/stanford-cs106l/lectures/10. Functions and Lambdas.md",
+    "courses/stanford-cs106l/lectures/9. Template Functions.md",
+    "courses/stanford-cs106l/lectures/8. Template Classes.md",
+    "courses/stanford-cs106l/lectures/7. Class.md",
+    "courses/stanford-cs106l/assignments",
+    "courses/stanford-cs106l/lectures",
+    "courses/stanford-cs106l",
+    "books/the-linux-programming-interface",
+    "books",
+    "courses/15-213/labs",
+    "Untitled.canvas",
+    "24summer/coding poem/go-src/std/io"
+  ]
+}

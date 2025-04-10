@@ -1,0 +1,33 @@
+- rust 是编译型的语言, 需要使用 `rustc` 编译器将程序进行编译
+- 编译 rust 程序一般分为两种
+	- 编译可执行程序 `fn main()`
+	- 编译库 `lib`
+- 但是一般在正常的使用中很少直接使用 `rustc` 进行编译, 而是使用包管理工具 `cargo` 对项目进行处理
+- `cargo` 
+	- 新建可执行程序项目 `cargo new project_name`
+	- 新建库项目 `cargo new --lib project_name`
+	- 构建项目 `cargo build`
+	- 带优化的构建 (用于生产环境) `cargo build --release`
+	- 检测 `cargo check`: 检测项目中是否有错误
+	- 直接运行 `cargo run`
+	- 测试 `cargo test`
+- 项目结构
+	- Project_name/
+		- Cargo.toml: 设置项目信息和依赖项
+		- src/
+			- lib.rs / main.rs
+		- target/
+			- debug/: 直接使用 `cargo build` 编译出的可执行程序会放在这里
+			- release/: 使用 `cargo build --release` 进行编译的程序会放在这里
+- 依赖管理: rust 使用 cargo 进行依赖管理, 依赖项都会放在 `cargo.toml` 文件中, rust 有一个比较权威的第三方库网站: https://crates.io/ , 可以在这里面找第三方库
+	- 直接修改  `cargo.toml` 文件, 不推荐, 在第三方库网站上找到之后, 直接粘贴进 `cargo.toml` 文件中, cargo 会自动解析并下载对应的库源码
+	- 使用 cargo 插件 `cargo-edit`
+	- `cargo install cargo-edit`
+	- 添加库, 使用 `cargo-edit` 之后, 就可以直接使用指令添加移除库, 在将一个库写到 `cargo.tmol` 文件之后 (文件发生更改), rust 会自动解析, 并自动拉取第三方库的代码, 放置到 `rust-home` 中
+		- `cargo add dependency_name`
+		- `cargo add dependency_name@1.2.3`
+		- `cargo add --dev dev_dependency`
+		- `cargo add --build build_dependency`
+	- 删除库
+		- `cargo rm dependency_name`
+- 

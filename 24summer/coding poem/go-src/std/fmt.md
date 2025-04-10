@@ -1,0 +1,1 @@
+- `formatted io`, 源自 C 语言 `printf, scanf`

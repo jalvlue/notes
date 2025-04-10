@@ -1,0 +1,3 @@
+- The era of parallelism
+- Incroporate more cores in a CPU instead of create a 5GH single core CPU
+- The end of Moore's law

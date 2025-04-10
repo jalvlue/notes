@@ -1,0 +1,5 @@
+- `incestuous`
+	- `adj` - 乱伦的, 近亲繁殖的 `Mary was in an incestuous relation with her brother tom`
+- `sabbatical`
+	- `n` - 休假 `Steve spent a sabbatical at ...`
+- 

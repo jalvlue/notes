@@ -1,0 +1,17 @@
+- `git init`
+- `git status`
+- `git add ...file_name`
+- `git add * && git add /.../.../*`
+- `git commit -m "..."`
+- `git log`
+- `git checkout commit_id`: 只有工作区干净的时候才能 checkout 
+- `git checkout master`
+- `detached HEAD`: HEAD 一般指向某个分治的顶端, 表示仓库在文件系统中的状态, 如果没有则进入了分离 HEAD 状态
+- `git - a distributed version control system`, 是分布式的, 也就是说有多个副本
+- `git clone remote_address...`
+- `git remove -v`
+- `git push origin master`
+- `git pull origin master` = `git fetch origin/master + git merge origin/master master`, merge 将会在本地产生一个新的 commit, 也就是将本地做的 commit 和远程的 commit 结合合并文件之后自动做的 commit
+- `git pull` 可能会导致合并冲突, 此时 git 会将冲突的内容全部写进冲突文件中, 需要手动去决定使用哪一个, 同时冲突的 `git pull` 将不会自动产生 `merge commit`, 而是需要手动解决冲突之后, 手动 commit
+- `git checkout commit_id... -- file/dir`
+- `git log --graph --online --all --decorate`

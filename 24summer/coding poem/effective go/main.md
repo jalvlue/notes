@@ -1,0 +1,1 @@
+- 这次一定要把 `effective go` 读完
