@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/stanford-cs144-wt25/lecture/week2 Reliability from Unreliability.md",
+                "file": "review/算法通关/067 从递归入手二维动态规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week2 Reliability from Unreliability"
+              "title": "067 从递归入手二维动态规划"
             }
           },
           {
@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "review/算法通关/047 一维差分与等差数列差分.md",
+                "file": "review/mysql/ch4 key point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "047 一维差分与等差数列差分"
+              "title": "ch4 key point"
+            }
+          },
+          {
+            "id": "fe015e4f7924b2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "review/面经/25-04-23 字节一面.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-04-23 字节一面"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "review/算法通关/047 一维差分与等差数列差分.md",
+                "file": "review/面经/25-04-23 字节一面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 047 一维差分与等差数列差分"
+              "title": "Backlinks for 25-04-23 字节一面"
             }
           },
           {
@@ -177,57 +191,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4070cc37f6b8763",
+  "active": "fe015e4f7924b2c0",
   "lastOpenFiles": [
-    "review/算法通关/045 前缀树相关题目.md",
-    "review/算法通关/044 前缀树.md",
-    "review/算法通关/040 N皇后👸.md",
-    "review/算法通关/039 经典嵌套类问题.md",
-    "review/算法通关/038 经典递归过程.md",
-    "review/算法通关/036 二叉树高频题目.md",
-    "attachment/Pasted image 20250410212140.png",
-    "attachment/Pasted image 20250410210908.png",
-    "attachment/Pasted image 20250410180955.png",
-    "attachment/Pasted image 20250410171656.png",
-    "attachment/Pasted image 20250410154335.png",
-    "attachment/Pasted image 20250410123150.png",
-    "attachment/Pasted image 20250410113511.png",
-    "attachment/Pasted image 20250410103956.png",
+    "review/面经/5.14 矩阵起源一面.md",
+    "review/面经/25-04-23 字节一面.md",
+    "review/面经/5.22 小鹅通一面.md",
     "review/算法通关/048 二维前缀和, 二维差分.md",
-    "attachment/Pasted image 20250409183505.png",
-    "review/算法通关/047 一维差分与等差数列差分.md",
-    "attachment/Pasted image 20250409181244.png",
-    "review/算法通关/046 构建前缀信息解决子数组问题.md",
+    "review/mysql/ch4 key point.md",
+    "review/mysql/ch5 key point.md",
+    "review/mysql/ch6 key point.md",
+    "review/kafka",
+    "review/Untitled.md",
+    "review/redis",
+    "review/mysql/ch3 key point.md",
+    "review/mysql/ch2 基础篇.md",
+    "review/mysql/ch2 key point.md",
+    "review/linux/tee.md",
+    "review/linux/awk.md",
+    "review/go/slice.md",
+    "review/go/reflect.md",
+    "review/go/Mutex.md",
+    "review/go/map.md",
+    "review/go/GMP.md",
+    "review/go/GC.md",
+    "review/go/Context.md",
+    "review/go/Channel.md",
+    "review/go/ants.md",
+    "review/hot100v2/16. 多维动态规划.md",
+    "review/算法通关/067 从递归入手二维动态规划.md",
+    "attachment/Pasted image 20250420182646.png",
+    "review/算法通关/066 从递归入手一维动态规划.md",
     "courses/stanford-cs144-wt25/lecture/week2 Reliability from Unreliability.md",
-    "courses/stanford-cs144-wt25/lecture/week1 Logistics and Basic Principals.md",
-    "2025/main.md",
-    "2025/看书/Go语言高级编程.md",
-    "courses/15-213/main.md",
-    "courses/15-213/lectures/lec12 Cache Memories.md",
-    "散记/Untitled.md",
-    "courses/stanford-cs144-wt25/labs/check0.md",
-    "courses/stanford-cs106l/lectures/15. RAII and Smart Pointers.md",
+    "attachment/Pasted image 20250419222100.png",
+    "attachment/Pasted image 20250419220130.png",
+    "attachment/Pasted image 20250419215424.png",
+    "attachment/Pasted image 20250419213931.png",
+    "attachment/Pasted image 20250419184826.png",
+    "attachment/Pasted image 20250419181530.png",
+    "attachment/Pasted image 20250419174530.png",
+    "attachment/Pasted image 20250419172010.png",
+    "attachment/Pasted image 20250419170839.png",
+    "review/hot100v2",
     "courses/stanford-cs144-wt25/labs",
     "courses/stanford-cs144-wt25/lecture",
     "courses/stanford-cs144-wt25",
-    "courses/stanford-cs106l/lectures/14. Optional and Type Safety.md",
-    "courses/stanford-cs106l/lectures/13. Move Semantics.md",
-    "courses/stanford-cs106l/lectures/12. Special Member Functions.md",
-    "courses/stanford-cs106l/lectures/11. Operator Overloading.md",
-    "courses/stanford-cs106l/lectures/10. Functions and Lambdas.md",
-    "courses/stanford-cs106l/lectures/9. Template Functions.md",
-    "courses/stanford-cs106l/lectures/8. Template Classes.md",
-    "courses/stanford-cs106l/lectures/7. Class.md",
     "courses/stanford-cs106l/assignments",
     "courses/stanford-cs106l/lectures",
     "courses/stanford-cs106l",
     "books/the-linux-programming-interface",
-    "books",
-    "courses/15-213/labs",
-    "Untitled.canvas",
-    "24summer/coding poem/go-src/std/io"
+    "Untitled.canvas"
   ]
 }
